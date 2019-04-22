@@ -1,0 +1,8 @@
+category.csv
+test.csv
+train.csv
+w2vec_model
+*.DS_Store
+*/
+*.ipynb
+*.h5
